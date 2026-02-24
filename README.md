@@ -1,5 +1,5 @@
 # HelpHabits
-# Todo Lists
+## Todo Lists
 ### Timer/Reminder
 ### FlashCards/Quizes
 ### Daily Study Schedule
